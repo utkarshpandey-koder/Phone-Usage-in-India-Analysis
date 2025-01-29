@@ -46,12 +46,12 @@ The project includes various interactive and professional charts such as:
 - **Stacked Bar Charts**: For layered insights.
 
 ## 🏆 Key Findings
-- **Males/Females** spend an average of **X** hours per day on their phones.
-- **Brand X** is the most popular phone brand.
-- **Age group 21-30** spends the most time on social media.
-- **City Y** has the highest e-commerce spending.
-- **Social media** is the most common phone activity.
-- **Females/Males** have a higher average call duration per day.
+- **On average, males spend 6.60 hours per day on their phones, while females spend 6.50 hours.**
+- **Nokia is the most popular phone brand among users.**
+- **Users aged 21-30 spend the most time on social media.**
+- **Pune records the highest e-commerce spending.**
+- **Social media is the most frequently used phone activity.**
+- **Females have a higher average call duration per day compared to males.**
 
 ## 🚀 How to Run the Project
 1. Clone the repository:
@@ -73,8 +73,6 @@ The project includes various interactive and professional charts such as:
 5. Run the notebook `analysis.ipynb` to explore the insights.
 
 ## 🛠️ Future Enhancements
-- Add machine learning models for predictive analysis.
-- Include sentiment analysis on user reviews.
 - Expand dataset for more diverse insights.
 
 ## 🤝 Contributing
@@ -82,8 +80,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📞 Contact
 For any questions, reach out to:
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: utkarshpandey022004@gmail.com
+- **GitHub**: https://github.com/utkarshpandey-koder
 
 ---
 🌟 **Star this repository if you found it useful!** 🌟
